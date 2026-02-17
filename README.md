@@ -1,4 +1,4 @@
-# Spell Database System 🧙‍♂️
+# Spell Database System 
 
 A hybrid data structure implementation in Java that combines Hash Tables and AVL Trees for efficient spell management, built as part of a Data Structures course at Ben-Gurion University.
 
@@ -25,15 +25,15 @@ This project implements a sophisticated spell database system using a combinatio
 ## Features
 
 ### Double Hash Table
-- ✅ Insertion with collision resolution
-- ✅ Lookup by spell name
-- ✅ Performance metrics (step counting)
+-  Insertion with collision resolution
+-  Lookup by spell name
+-  Performance metrics (step counting)
 
 ### Hash-AVL Spell Table
-- 🔍 **Search by category, name, and power level**
-- ➕ **Insert spells** organized by category and sorted by power
-- 📊 **Count spells** in the entire database or by category
-- 🏆 **Get top K spells** in a category (by power level)
+-  **Search by category, name, and power level**
+-  **Insert spells** organized by category and sorted by power
+-  **Count spells** in the entire database or by category
+-  **Get top K spells** in a category (by power level)
 
 ## Class Structure
 
